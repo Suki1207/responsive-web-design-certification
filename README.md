@@ -5,7 +5,7 @@
 <h2>Survey Form Project</h2>
 
 <h3>Description:</h3>
-<p>The survey form project is a simple form designed for a tech education company to gather feedback from their clients. It includes fields for personal information, recommendations, and improvement advice.</p>
+<p>The Survey Form Project is a simple form designed for a tech education company to gather feedback from their clients. It includes fields for personal information, recommendations, and improvement advice.</p>
 
 <h3>Intructions:</h3>
 <p>This project was completed following specific instructions provided by freeCodeCamp, which included incorporating certain pieces of code.</p>
