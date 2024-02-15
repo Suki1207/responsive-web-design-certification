@@ -1,6 +1,6 @@
 <h1>freeCodeCamp | Responsive Web Design Certification</h1>
 
-<p>This repository contains my project completed as part of the Responsive Web Design Certification from @freeCodeCamp.</p>
+<p>This repository contains my project completed as part of the Responsive Web Design Certification from <a href="https://github.com/freeCodeCamp">freeCodeCamp</a>.</p>
 
 <h2>Survey Form Project</h2>
 
@@ -23,4 +23,4 @@
 <p>Each project demonstrates various aspects of responsive web design and was completed according to the guidelines provided by freeCodeCamp.</p>
 
 <h2>About the Certification</h2>
-<p>The Responsive Web Design Certification from freeCodeCamp is designed to equip learners with the skills and knowledge needed to create responsive and visually appealing web designs. By completing these projects, I have demonstrated proficiency in HTML, CSS, and responsive web design principles.</p>
+<p>The <a href="https://www.freecodecamp.org/certification/sukis/responsive-web-design">Responsive Web Design Certification</a> from <a href="https://github.com/freeCodeCamp">freeCodeCamp</a> is designed to equip learners with the skills and knowledge needed to create responsive and visually appealing web designs. By completing these projects, I have demonstrated proficiency in HTML, CSS, and responsive web design principles.</p>
