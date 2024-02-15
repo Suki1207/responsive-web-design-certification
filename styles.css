@@ -1,0 +1,172 @@
+* {
+  font-family: Rubik;
+  font-size: 16px;
+  font-weight: 300;
+  color: #f5f6f7;
+  background: linear-gradient(
+    90deg,
+    rgb(70, 114, 146),
+    rgb(95, 51, 133),
+    rgb(70, 114, 146)
+  );
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-size: 55px;
+  font-family: Rubik Doodle Shadow;
+  font-weight: 400;
+}
+
+p {
+  padding-bottom: 14px;
+  font-weight: 400;
+}
+
+h1,
+p {
+  text-align: center;
+  margin: 1em auto;
+}
+
+p:after {
+  content: "";
+  display: block;
+  margin: 0 auto;
+  width: 40%;
+  padding-top: 30px;
+  border-bottom: 0.5px solid #f5f6f7;
+}
+
+legend,
+label {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+form {
+  width: 80vw;
+  max-width: 600px;
+  min-width: 300px;
+  place-items: center;
+  background: linear-gradient(
+    45deg,
+    rgb(115, 99, 129),
+    rgb(95, 51, 133),
+    rgb(70, 114, 146)
+  );
+  border-radius: 10px;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.input-element,
+label,
+legend,
+fieldset,
+input {
+  background: none;
+}
+
+input,
+select {
+  width: 28vw;
+  height: 6vh;
+  background: #f5f6f7;
+  border: none;
+  border-radius: 15px;
+  margin-top: 25px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+
+input.age {
+  width: 10vw;
+}
+
+::placeholder {
+  padding-left: 25px;
+  visibility: hidden;
+}
+
+option {
+  color: black;
+}
+
+fieldset {
+  border: 1px solid #f5f6f7;
+  border-radius: 15px;
+}
+
+legend.improvement,
+legend.comments {
+  padding-top: 25px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  position: relative;
+  height: 15px;
+  width: 15px;
+  background-color: #f5f6f7;
+  border: none;
+  padding-left: 25px;
+}
+
+input:focus,
+textarea:focus {
+  color: rgb(48, 48, 48);
+  padding-left: 25px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+
+textarea {
+  background: #f5f6f7;
+  width: 95%;
+  height: 25%;
+  place-items: center;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding-left: 10px;
+}
+
+input[type="submit"] {
+  display: block;
+  color: white;
+  background: linear-gradient(
+    90deg,
+    rgb(70, 114, 146),
+    rgb(95, 51, 133),
+    rgb(70, 114, 146)
+  );
+  font-size: 1.1rem;
+  font-weight: 500;
+  width: 100px;
+  height: 50px;
+  min-width: 300px;
+  text-align: center;
+  margin: 1em auto;
+  border: 1px solid #f5f6f7;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+input[type="submit"]:hover {
+  background: linear-gradient(
+    90deg,
+    rgb(95, 51, 133),
+    rgb(70, 114, 146),
+    rgb(95, 51, 133)
+  );
+}
+
+input[type="submit"]:active {
+  background: linear-gradient(
+    90deg,
+    rgb(135, 103, 163),
+    rgb(95, 51, 133),
+    rgb(135, 103, 163)
+  );
+}
