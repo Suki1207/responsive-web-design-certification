@@ -1,6 +1,6 @@
 <h1>freeCodeCamp | Responsive Web Design Certification</h1>
 
-<p>This repository contains my project completed as part of the Responsive Web Design Certification from <a href="https://github.com/freeCodeCamp">freeCodeCamp</a>.</p>
+<p>This repository contains my project completed as part of the <a href="https://www.freecodecamp.org/certification/sukis/responsive-web-design">Responsive Web Design Certification</a> from <a href="https://github.com/freeCodeCamp">freeCodeCamp</a>.</p>
 
 <h2>Survey Form Project</h2>
 
